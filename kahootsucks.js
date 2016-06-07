@@ -1,7 +1,7 @@
 function init() {
   var pinr = document.getElementById("pin").value;
   var numr = (20 + (Math.floor((Math.random() * 180))));
-  $.get("https://kahoot-michaeldg3.c9users.io", { pin: pinr, num: numr, type: "chinese" }, function(data){ retData(data); });
+  $.get("https://kahoot1-michaeldg3.c9users.io", { pin: pinr, num: numr, type: "chinese" }, function(data){ retData(data); });
 }
 
 function retData(data) {
