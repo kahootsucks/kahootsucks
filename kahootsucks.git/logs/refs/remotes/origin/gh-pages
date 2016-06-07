@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 3ce4bf85a0df6a108525f290eefa9b444c1253e0 Jack Mandelkorn <jacman444@gmail.com> 1465230624 -0700	fetch --prune --recurse-submodules=on-demand origin: storing head
+3ce4bf85a0df6a108525f290eefa9b444c1253e0 bface8383ce13b015c466863e83c7b15a639e7b5 Jack Mandelkorn <jacman444@gmail.com> 1465231246 -0700	fetch --prune --recurse-submodules=on-demand origin: fast-forward
+bface8383ce13b015c466863e83c7b15a639e7b5 5ec101cd6a5c101942072d3bf8cc4a216b6d433b Jack Mandelkorn <jacman444@gmail.com> 1465231558 -0700	fetch --prune --recurse-submodules=on-demand origin: fast-forward

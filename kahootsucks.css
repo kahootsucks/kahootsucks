@@ -1,0 +1,34 @@
+body {
+  margin: 3vw;
+  padding: 0;
+  transition: background-color 7s ease;
+  -webkit-transition: background-color 7s ease;
+  font-size: 3vw;
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  color: white;
+}
+
+input {
+  border: none;
+  outline: none;
+  padding: 1.3vw;
+  color: #A0A0A0;
+  font-size: 2.5vw;
+}
+
+button {
+  border: none;
+  outline: none;
+  padding: 1.3vw;
+  background-color: #A0A0A0;
+  color: white;
+  font-size: 2.5vw;
+  transition: color 0.1s ease, background-color 0.1s ease;
+}
+button:active {
+  color: #A0A0A0;
+  background-color: white;
+}
